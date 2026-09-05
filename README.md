@@ -1,4 +1,4 @@
-# An AI-Native Content Operating System
+# AI-Native Content Operations Architecture & Reference Model
 
 **By Isaac Arnold** (isaac@ghostlines.net)
 
